@@ -6,17 +6,12 @@
 
 Flutter replicated app of "Quran Android"
 
-[![version](https://img.shields.io/badge/version-0.0.0-yellow.svg)](https://github.com/muslimpack/Quran)
-![GitHub all releases](https://img.shields.io/github/downloads/muslimpack/Quran/total?color=green&label=Total%20Downloads)
+![Badge](https://img.shields.io/github/v/release/muslimpack/Quran)
+![GitHub all releases](https://img.shields.io/github/downloads/muslimpack/Quran/total?color=blue&label=Total%20Downloads)
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=com.hassaneltantawy.quran)](https://play.google.com/store/apps/details?id=com.hassaneltantawy.quran)
 
 <div align="right">
  
-### حقوق ملكية أيقونة التطبيق
-  
-أيقونة هذا التطبيق معدلة الألوان عن مخطوطة القرآن الكريم من موقع ويكيبديا لصاحبها "محمد الحراق".
- - [ملف: مخطوطة القرآن الكريم.](https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg)
-
 # مميزات التطبيق
 
 <details open>
@@ -63,6 +58,8 @@ Flutter replicated app of "Quran Android"
 | ❌  | الحفظ والتسميع AI                       |
 | ❌  | عمل مصاحف للروايات المختلفة             |
 
+<div align="right">
+ 
 # صور من التطبيق
 
 <p align="center">
@@ -76,3 +73,10 @@ Flutter replicated app of "Quran Android"
   <img src="https://github.com/muslimpack/Quran/assets/50374022/87a1e180-5443-4031-807e-69ab6b26bac8" height="400" >
   <img src="https://github.com/muslimpack/Quran/assets/50374022/e18007b2-2685-4b72-9a99-9d2d2458f88b" height="400" >
 </p>
+
+<div align="right">
+ 
+# حقوق ملكية أيقونة التطبيق
+  
+أيقونة هذا التطبيق معدلة الألوان عن مخطوطة القرآن الكريم من موقع ويكيبديا لصاحبها "محمد الحراق".
+ - [ملف: مخطوطة القرآن الكريم.](https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg)
