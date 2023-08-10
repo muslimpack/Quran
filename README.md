@@ -53,9 +53,26 @@ Flutter replicated app of "Quran Android"
 | ✔   | إضافة تصانيف                            |
 | ✔   | مشاركة الآيات كنص أو كصورة              |
 | ✔   | مشاركة الآيات كرابط                     |
+| ✔   | وضعيات قراءة لصفحات المصحف              |
+| ✔   | إعدادات للتطبيق                         |
 | ❌  | إضافة التفاسير                          |
 | ❌  | تشغيل التلاوات للقراء                   |
 | ❌  | التدوين على صفحات المصحف مع إنشاء طبقات |
 | ❌  | عمل ختمات                               |
 | ❌  | الحفظ والتسميع AI                       |
 | ❌  | عمل مصاحف للروايات المختلفة             |
+
+# صور من التطبيق
+
+<p align="center">
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/760b12ac-6f0e-4676-910c-35a5c07892aa" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/cb2766df-18b5-4b94-a617-6d83a1a6d57e" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/4c397572-932f-4345-ac85-081513c06308" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/f2f410e6-9bf4-4053-b72a-df06ad567008" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/a6ac95f3-600a-4c33-a0c2-0ac5e149b7e8" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/80815d98-f2ea-4e6e-9fc1-b0b344d89e5b" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/0e66b9af-9021-426d-b985-48b55fdf6d5c" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/265337fd-0656-430b-ac5d-72fc99c23e43" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/fcafa3d5-998a-446d-a3bf-6b2c6982cc89" height="400" >
+  <img src="https://github.com/muslimpack/Quran/assets/50374022/b8c370f9-0c9f-46b2-93a2-dd0b2adbae94" height="400" >
+</p>
