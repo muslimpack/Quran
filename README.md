@@ -14,7 +14,7 @@ Flutter replicated app of "Quran Android" with new look and features
  
 # مميزات التطبيق
 
-<details open>
+<details close>
 <summary>v0.4.0</summary>
 
 ## نظام ختمة
