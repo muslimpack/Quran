@@ -15,6 +15,93 @@ Flutter replicated app of "Quran Android" with new look and features
 # مميزات التطبيق
 
 <details open>
+<summary>v0.4.0</summary>
+
+## نظام ختمة
+
+- إضافة خطط لختم القرآن الكريم ومتابعة التقدم والاطلاع على الأحزاب اليومية وموضوعات الآيات
+- يوجد في الختمة ثلاث أنظمة:
+  - تقسيم القرآن بالأيام:
+    وفيها يحدد المستخدم عدد الأيام التي يريد الختم فيها ويقوم التطبيق بإعداد خطة له
+  - تقسيم القرآن بالأرباع:
+    وفيها يحدد المستخدم عدد الأرباع التي يريد إنجازاها يوميا ويقوم البرنامج بإنشاء خطة له
+  - تحزيب القرآن:
+    وفيه تحزيب الصحابة تقسيم القرآن بالسور على 7 أيام
+    وتحزيب القرآن على 20 - 15 - 10 أيام
+
+تم الاعتماد على بحث "تحزيب القرآن الكريم في ضوء السنة النبوية رواية ودراية" للدكتور محمد على أحمد الأعمر
+
+## وضع جديد للقراءة "التحريك التلقائي" (تجريبي)
+
+- تحديد سرعة التحريك
+- إيقاف وتشغيل التحريك
+
+(تجريبي) ويعمل فقط في وضع الصفحة الواحدة لصفحات المصحف دون التفسير
+
+<div align="center">
+
+| -     | وجهين | وجه رأسي           | وجه عرضي          |
+| ----- | ----- | ------------------ | ----------------- |
+| قرآن  | ❌    | ✔                  | ❌(ميزة مستقبلية) |
+| تفسير | ❌    | ❌ (ميزة مستقبلية) | ❌(ميزة مستقبلية) |
+| خليط  | ❌    | -                  | -                 |
+
+<div align="right">
+
+## مرجعيات الآيات
+
+### إعدادات العرض
+
+إضافة إعدادات عرض لمرجعيات الآيات
+
+- ترتيب حسب تاريخ الإضافة
+- ترتيب حسب موقعها في القرآن
+- ترتيب تصاعدي وتنازلي
+- تجميع المرجعيات حسب التصنيف
+- التحكم في عرض تاريخ الإضافة
+
+### تحديد وحذف المرجعيات
+
+تحديد المرجعيات لحذف المحدد مباشرة
+
+- الضغط المطول على بطاقات مرجعية الآيات أو الصفحات للتحديد وتفعيل الوضع
+- بعد ذلك يمكنك إضافة وحذف التحديد بضغطة مفردة
+- الشريط العلوي لحذف أو إلغاء تحديد المحدد
+
+## صفحة المصحف
+
+- إمكانية التحكم في تشبع اللون الأصفر "لصفحات القرآن" من الإعدادات
+- تحسين الشريط العلوي في صفحة المصحف
+
+## الرسم على الصفحات
+
+الجديد في الرسم على صفحات المصحف
+
+- تحسين الإطار العام للأدوات
+- تفعيل الطبقة الأولى بشكل افتراضي
+  - عند تفعيل الرسم
+  - أو إضافة طبقة جديدة مع عدم وجود طبقات سابقة
+- تحسين نظام التاريخ
+- يمكنك الآن التراجع عن
+  - إضافة وتعديل وحذف الطبقات
+  - حذف جميع المحتوى
+
+## أخرى
+
+- تحسين صفحة قراءة التفسير
+- تحسين مظهر تطبيق سطح المكتب
+- تحسين على المشاركة كصورة
+
+- تحسين قاعدة بيانات موضوع الآيات
+
+  - حذف التكرار في النص في بعض الموضوعات
+  - إصلاح الكثير من الأخطاء الإملائية المتعلقة بالهمزات 01
+
+- حل بعض المشكلات
+
+</details>
+
+<details close>
 <summary>v0.3.0</summary>
 
 ## دعم التطبيق للترجمات
@@ -143,7 +230,7 @@ Tafsir page components update countless times
 | ✔   | التفاسير والترجمات                      |
 | ❌  | تشغيل التلاوات للقراء                   |
 | ✔   | التدوين على صفحات المصحف مع إنشاء طبقات |
-| ❌  | عمل ختمات                               |
+| ✔   | عمل ختمات                               |
 | ✔   | ترجمة التطبيق للغات مختلفة              |
 | ❌  | الحفظ والتسميع AI                       |
 | ❌  | عمل مصاحف للروايات المختلفة             |
@@ -153,15 +240,34 @@ Tafsir page components update countless times
 # صور من التطبيق
 
 <p align="center">
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/abf35e52-991f-46c5-bae5-8764b1ecbfbd" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/de9fc354-bbf7-4046-8363-23ca8b00adb8" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/17b34b90-1aa0-43f9-9eda-ece91e890d6f" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/b73c1169-db02-497a-b376-08bcbd63e815" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/a7c4a2cd-afd3-43e0-8b34-9413a6c54452" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/49d91418-82b0-45dd-9c7f-e819f18d68c6" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/f36e1477-46dd-40eb-a495-42e2f16f4e53" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/87a1e180-5443-4031-807e-69ab6b26bac8" height="400" >
-  <img src="https://github.com/muslimpack/Quran/assets/50374022/e18007b2-2685-4b72-9a99-9d2d2458f88b" height="400" >
+
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/00.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/01.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/02.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/03.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/04.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/05.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/06.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/07.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/08.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/09.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/10.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/11.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/12.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/13.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/14.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/15.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/16.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/17.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/18.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/19.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/20.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/21.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/22.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/23.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/24.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/25.png" height="400" />
+
 </p>
 
 <div align="right">
