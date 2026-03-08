@@ -228,7 +228,7 @@ Tafsir page components update countless times
 | ✔   | وضعيات قراءة لصفحات المصحف              |
 | ✔   | إعدادات للتطبيق                         |
 | ✔   | التفاسير والترجمات                      |
-| ❌  | تشغيل التلاوات للقراء                   |
+| ✔  | تشغيل التلاوات للقراء                   |
 | ✔   | التدوين على صفحات المصحف مع إنشاء طبقات |
 | ✔   | عمل ختمات                               |
 | ✔   | ترجمة التطبيق للغات مختلفة              |
@@ -241,32 +241,28 @@ Tafsir page components update countless times
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/00.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/01.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/02.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/03.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/04.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/05.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/06.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/07.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/08.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/09.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/10.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/11.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/12.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/13.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/14.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/15.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/16.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/17.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/18.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/19.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/20.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/21.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/22.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/23.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/24.png" height="400" />
-<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.4.0/25.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/01.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/02.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/03.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/04.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/05.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/06.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/07.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/08.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/09.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/10.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/11.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/12.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/13.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/14.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/15.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/16.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/17.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/18.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/19.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/20.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/21.png" height="400" />
+<img src="https://raw.githubusercontent.com/muslimpack/Quran/main/repo_media/v0.5.0/22.png" height="400" />
 
 </p>
 
